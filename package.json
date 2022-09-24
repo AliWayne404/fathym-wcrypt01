@@ -1,0 +1,24 @@
+{
+  "name": "wcrypt01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "16.x",
+    "npm": "8.5.5"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.1.1",
+    "express": "^4.18.1",
+    "node-binance-api-ext": "^2.0.1",
+    "qs": "^6.11.0"
+  }
+}
